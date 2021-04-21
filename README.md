@@ -6,3 +6,5 @@ I am Furqan Ulah, I am a software Engineer with more that 4 yeras of experience.
 - 💬 Ask me about 
 - 📫 How to reach me: furqanullah717@gmail.com
 - 😄 Pronouns: He/Him
+
+![Furqan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furqanullah717&show_icons=true&theme=radical)

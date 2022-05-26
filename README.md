@@ -2,11 +2,11 @@
 Hi there 👋
 I am Furqan Ulah, I am a Software Engineer with more than 6 years of experience. I have experience of developing mobile apps in Java, Kotlin and Swift. Other than development i am a sports lover and i love playing Cricket and Football.
 
-🔭 I’m currently working on mobile app development
-🌱 I’m currently learning flutter
-💬 Ask me about
-📫 How to reach me: furqanullah717@gmail.com
-😄 Pronouns: He/Him
+- 🔭 I’m currently working on mobile app development
+- 🌱 I’m currently learning flutter
+- 💬 Ask me about
+- 📫 How to reach me: furqanullah717@gmail.com
+- 😄 Pronouns: He/Him
 
 
 ## 🌐Socials
